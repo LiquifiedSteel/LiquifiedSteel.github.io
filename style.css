@@ -86,7 +86,7 @@
 h1 {
     border-bottom: 3px solid #615055;
     padding: 2rem;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     margin-top: 0px;
 }
   
@@ -103,6 +103,8 @@ h1 {
 
 .card-text {
     margin: 2%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
 }
   
 .card-img.card-img {
@@ -147,7 +149,7 @@ li {
     margin-top: 3vh;
     list-style: none;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .card-header {
